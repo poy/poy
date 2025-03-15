@@ -34,7 +34,7 @@ Here are some of the (non-personal) projects I was fairly influential:
 
 **Description:** Dependency injection for Go
 
-### [go-dependency-injection](https://github.com/poy/go-router)
+### [go-routet](https://github.com/poy/go-router)
 
 **Description:** HTTP Router that plays well with [go-dependency-injection](https://github.com/poy/go-dependency-injection)
 
