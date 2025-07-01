@@ -1,8 +1,8 @@
-I'm a passionate software engineer with a deep love for Go and a keen interest in emerging technologies. Currently, I'm delving into the [Zig programming language](https://ziglang.org/), exploring its potential to enhance system-level programming. My primary focus is on improving developer productivity, and I'm also exploring the citizen developer space through [AppSheet](https://about.appsheet.com/home/) to understand its broader impact.
+I'm a passionate software engineer with a deep love for Go and a keen interest in emerging technologies. Currently, I'm delving into agentic AI (along with everyone?).
 
 - 🔭 **Current Role:** Software Engineer at Google
-- 🌱 **Currently Learning:** Advanced concepts in Zig and the capabilities of AppSheet for empowering citizen developers and as always, dabbling with machine learning
-- 💬 **Ask Me About:** Go, Zig, Developer Productivity, and No-Code Platforms
+- 🌱 **Currently Learning:** Advanced concepts around agentic AI
+- 💬 **Ask Me About:** Go, Developer Productivity, and No-Code Platforms
 - 📫 **Contact:** [LinkedIn]([https://www.linkedin.com/in/andrew-poydence/](https://www.linkedin.com/in/andrew-poydence-8b840973/)) | [Bluesky]([https://twitter.com/poy_cloud](https://bsky.app/profile/theoverengineered.bsky.social))
 
 ## Featured Projects
